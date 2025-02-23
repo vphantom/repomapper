@@ -1,0 +1,9 @@
+*.py[cod]
+*~
+.*.swp
+.aider*
+.pytest_cache
+.tags
+MAP.txt
+__pycache__
+repomapper

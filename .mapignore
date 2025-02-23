@@ -1,0 +1,3 @@
+*.cfg
+*.txt
+__init__.py

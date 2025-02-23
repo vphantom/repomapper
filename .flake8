@@ -1,0 +1,7 @@
+[flake8]
+extend-select = BLK
+max-line-length = 88
+extend-ignore = E203, E501, W291
+# E203: Whitespace before ':' (conflicts with black)
+# E501: Line too long (conflicts with black)
+# W291: trailing whitespace (we need it in some multiline strings)
